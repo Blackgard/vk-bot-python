@@ -38,7 +38,7 @@ setup(
         "certifi==2021.10.8",
         "charset-normalizer==2.0.7",
         "colorama==0.4.4",
-        "idna==3.3",
+        "idna==3.7",
         "six==1.16.0",
         "typing-extensions==3.10.0",
         "urllib3==1.26.18",
